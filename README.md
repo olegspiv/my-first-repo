@@ -1,28 +1,23 @@
-# This is a large heading
+# oleg spivak
 
-## This is a smaller heading
+### ebanyj dolbayob
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet's pen,
-Turns them to shapes and gives to airy nothing, 
-A local *habituation* and a **name**.
+I look for job for ages and dont find anything
 
-- This is
-- an unordered 
- - list
+### huy
 
-1. This is
-2. an ordered
-3. list
+Huy drochit' nada vsem
+- dolgo
+- uporno
+- kak v porno
 
-Here is `some code` in the middle of a sentence.
+### srat
 
-```
-This is
-a block
-of code
-```
+srat nado
+1. ne spesha
+2. naslazhdayas
+3 pukaya
 
-Here is how you make [a link] (https://www.wikipedia.org/).
+### samiy luchsiy sait
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+samiy luchshij sait eta: [ogrish](https://ogrish.com)
